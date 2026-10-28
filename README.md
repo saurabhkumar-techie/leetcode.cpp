@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
