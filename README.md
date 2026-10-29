@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/saurabhkumar-techie/leetcode.cpp/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
